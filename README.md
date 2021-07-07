@@ -28,4 +28,9 @@ I am currently working at @rstudio as software engineer working with @yihui in t
 I am also one of the author of the [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) :book: 
 and also of the [**crrri**](https://github.com/RLesur/crrri) :package:
 
-You can find my presentations at https://github.com/cderv/presentations
+You can find my presentations at https://github.com/cderv/presentations and also find me on https://cderv.rbind.io
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cderv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
