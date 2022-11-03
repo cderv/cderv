@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working at @rstudio as software engineer working with @yihui in the R Markdown team on several of the following packages 
+I am currently working at[Posit PBC](https://posit.co) as software engineer working on Scientific Publishing tooling, mainly R Markdown and Quarto. 
+
+Main R packages I am working one: 
 
 - [**rmarkdown**](https://github.com/rstudio/rmarkdown)
 - [**knitr**](https://github.com/yihui/knitr)
