@@ -5,3 +5,5 @@ I also maintain the [quarto R package](https://github.com/quarto-dev/quarto-r) a
 I do most of my coding with AI agents, on Windows. When one of those tools breaks on Windows, I open an issue or send a fix.
 
 Happy to talk about Quarto, scientific publishing or coding with agents on Windows. [LinkedIn](https://www.linkedin.com/in/cderv) is the best place to reach me.
+
+![GitHub stats for cderv](./profile/stats.svg)
